@@ -119,5 +119,3 @@ Rajvi Trivedi
 Data Analyst | Business Analyst
 
 ---
-
-on GitHub.
